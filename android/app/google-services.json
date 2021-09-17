@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "838535689634",
+    "project_id": "ecom-9a689",
+    "storage_bucket": "ecom-9a689.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838535689634:android:eb94129c9796effc22aefb",
+        "android_client_info": {
+          "package_name": "com.marketmela.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838535689634-6vh5gb9rpququbf75q5rgbi0gp0ica5q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.marketmela.app",
+            "certificate_hash": "4355bf9d0a811c06b52fdc09221b0d49caed37e1"
+          }
+        },
+        {
+          "client_id": "838535689634-ptpq6ldsk1ips567jkunb6s6btvo1a01.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.marketmela.app",
+            "certificate_hash": "8835762b750348990b24e0277309328d54dc5a5a"
+          }
+        },
+        {
+          "client_id": "838535689634-qidvv85um58fbumooljub3tbanpdimjs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.marketmela.app",
+            "certificate_hash": "9c9c108c6411350b1b09ed628e6201f137837b41"
+          }
+        },
+        {
+          "client_id": "838535689634-ocgd9umcb76r8aa656vjskmi81rv26lv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjQsSmkGgzs-XHVjW3pZQadKCGpuVs9i4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838535689634-ocgd9umcb76r8aa656vjskmi81rv26lv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "838535689634-s70isd1kqs1olv2h72jljikf6ts5jcu2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.eCommerceAppFlutter"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838535689634:android:7a998d9a8dd1305822aefb",
+        "android_client_info": {
+          "package_name": "com.shubhsaras.uploader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838535689634-ocgd9umcb76r8aa656vjskmi81rv26lv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjQsSmkGgzs-XHVjW3pZQadKCGpuVs9i4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838535689634-ocgd9umcb76r8aa656vjskmi81rv26lv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "838535689634-s70isd1kqs1olv2h72jljikf6ts5jcu2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.eCommerceAppFlutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
